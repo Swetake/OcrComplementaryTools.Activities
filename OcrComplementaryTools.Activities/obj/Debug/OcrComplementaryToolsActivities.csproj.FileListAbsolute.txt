@@ -1,0 +1,8 @@
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\bin\Debug\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\bin\Debug\OcrComplementaryToolsActivities.pdb
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryToolsActivities.csprojAssemblyReference.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryTools.FormMain.resources
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryToolsActivities.csproj.GenerateResource.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryToolsActivities.csproj.CoreCompileInputs.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryToolsActivities.pdb

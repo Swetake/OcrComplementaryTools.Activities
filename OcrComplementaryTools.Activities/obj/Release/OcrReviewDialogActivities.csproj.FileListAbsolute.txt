@@ -1,0 +1,12 @@
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Release\OcrReviewDialogActivities.csproj.GenerateResource.cache
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Release\OcrReviewDialogActivities.csproj.CoreCompileInputs.cache
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Release\OcrReview.FormMain.resources
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\bin\Release\OcrReviewDialog.Activities.dll
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Release\OcrReviewDialog.Activities.dll
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Release\OcrReviewDialogActivities.csprojAssemblyReference.cache
+C:\Users\swe\source\repos\OcrReviewDialog.Activities\OcrReviewDialogActivities\bin\Release\OcrReviewDialog.Activities.dll
+C:\Users\swe\source\repos\OcrReviewDialog.Activities\OcrReviewDialogActivities\obj\Release\OcrReview.FormMain.resources
+C:\Users\swe\source\repos\OcrReviewDialog.Activities\OcrReviewDialogActivities\obj\Release\OcrReviewDialogActivities.csproj.GenerateResource.cache
+C:\Users\swe\source\repos\OcrReviewDialog.Activities\OcrReviewDialogActivities\obj\Release\OcrReviewDialogActivities.csproj.CoreCompileInputs.cache
+C:\Users\swe\source\repos\OcrReviewDialog.Activities\OcrReviewDialogActivities\obj\Release\OcrReviewDialog.Activities.dll
+C:\Users\swe\Source\Repos\OcrReviewDialog.Activities\OcrReviewDialogActivities\obj\Release\OcrReviewDialogActivities.csprojAssemblyReference.cache

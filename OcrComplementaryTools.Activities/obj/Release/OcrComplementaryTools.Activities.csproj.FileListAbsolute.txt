@@ -1,0 +1,8 @@
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\bin\Release\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\bin\Release\Fastenshtein.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.FormMain.resources
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.Activities.csproj.GenerateResource.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.Activities.csproj.CoreCompileInputs.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.Activities.csproj.CopyComplete
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.Activities.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\bin\Debug\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\bin\Debug\OcrComplementaryToolsActivities.pdb
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryTools.Activities.csprojAssemblyReference.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryTools.FormMain.resources
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryTools.Activities.csproj.GenerateResource.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryTools.Activities.csproj.CoreCompileInputs.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrReviewDialogActivities\obj\Debug\OcrComplementaryToolsActivities.pdb
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\bin\Debug\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\bin\Debug\OcrComplementaryToolsActivities.pdb
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\bin\Debug\Fastenshtein.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryTools.FormMain.resources
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryTools.Activities.csproj.GenerateResource.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryTools.Activities.csproj.CoreCompileInputs.cache
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryTools.Activities.csproj.CopyComplete
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryToolsActivities.dll
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryToolsActivities.pdb
