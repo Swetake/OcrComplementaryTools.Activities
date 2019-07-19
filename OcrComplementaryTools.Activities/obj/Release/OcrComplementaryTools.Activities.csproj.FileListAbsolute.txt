@@ -5,4 +5,3 @@ C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools
 C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.Activities.csproj.CoreCompileInputs.cache
 C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.Activities.csproj.CopyComplete
 C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryToolsActivities.dll
-C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Release\OcrComplementaryTools.Activities.csprojAssemblyReference.cache

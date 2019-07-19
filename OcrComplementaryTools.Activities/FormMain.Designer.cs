@@ -68,6 +68,7 @@
             this.textBoxText.Size = new System.Drawing.Size(680, 124);
             this.textBoxText.TabIndex = 2;
             this.textBoxText.Visible = false;
+            this.textBoxText.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBoxText_KeyDown);
             // 
             // pictureBoxReviewImage
             // 
@@ -109,6 +110,7 @@
             this.comboBoxForCandidate.Size = new System.Drawing.Size(640, 126);
             this.comboBoxForCandidate.TabIndex = 9;
             this.comboBoxForCandidate.Visible = false;
+            this.comboBoxForCandidate.KeyDown += new System.Windows.Forms.KeyEventHandler(this.comboBoxForCandidate_KeyDown);
             // 
             // FormMain
             // 

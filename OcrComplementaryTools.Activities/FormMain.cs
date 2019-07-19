@@ -28,6 +28,7 @@ namespace OcrComplementaryTools
         List<string> listStrCandidate;
         ReviewDialog reviewDialog;
         bool isComboBoxMode;
+        bool isDisableEnterKeySubmit;
 
         public FormMain(ReviewDialog rd)
         {
@@ -35,6 +36,7 @@ namespace OcrComplementaryTools
             reviewDialog = rd;
             imgInput = reviewDialog.ImgReview;
             listStrCandidate = reviewDialog.ListStrCandidate;
+            isDisableEnterKeySubmit = reviewDialog.IsDisableEnterKeySubmit;
 
             Size sizeForm = this.Size;
             Size sizeImageFrame = this.pictureBoxReviewImage.Size;
@@ -197,5 +199,22 @@ namespace OcrComplementaryTools
         }
 
 
+        private void comboBoxForCandidate_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter && !isDisableEnterKeySubmit)
+            {
+                buttonGo.PerformClick();
+
+            }
+        }
+
+        private void textBoxText_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter && !isDisableEnterKeySubmit)
+            {
+                buttonGo.PerformClick();
+
+            }
+        }
     }
 }

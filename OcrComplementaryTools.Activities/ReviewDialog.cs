@@ -43,6 +43,10 @@ namespace OcrComplementaryTools
         [Description("[Optional] Font Size")]
         public InArgument<Int32> FontSize { get; set; }
 
+        [Category("Dialog")]
+        [Description("Disable to submit when press enter key")]
+        public InArgument<bool> DisableEnterKeySubmit { get; set; }
+
 
 
         [Category("Output")]
@@ -69,7 +73,7 @@ namespace OcrComplementaryTools
 
         protected internal Boolean IsModify { get; set; }
 
-
+        protected internal Boolean IsDisableEnterKeySubmit { get; set; }
         protected internal Int32 IntFrameWidth  { get; set; }
         protected internal Int32 IntImageFrameHeight { get; set; }
         protected internal Int32 IntTextFrameHeight { get; set; }
@@ -87,9 +91,11 @@ namespace OcrComplementaryTools
             this.IntImageFrameHeight = ImageFrameHeight.Get(context);
             this.IntTextFrameHeight = TextFrameHeight.Get(context);
             this.IntFontSize = FontSize.Get(context);
+            this.IsDisableEnterKeySubmit = DisableEnterKeySubmit.Get(context);
 
-            IsUnRead = false;
-            IsModify = false;
+            this.IsUnRead = false;
+            this.IsModify = false;
+            
             FormMain fm = new FormMain(this);
             fm.ShowDialog();
 
