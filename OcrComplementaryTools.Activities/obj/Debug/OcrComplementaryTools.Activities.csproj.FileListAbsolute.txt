@@ -15,3 +15,4 @@ C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools
 C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryTools.Activities.csproj.CopyComplete
 C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryToolsActivities.dll
 C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryToolsActivities.pdb
+C:\Users\swe\source\repos\OcrComplementaryTools.Activities\OcrComplementaryTools.Activities\obj\Debug\OcrComplementaryTools.Activities.csprojAssemblyReference.cache
